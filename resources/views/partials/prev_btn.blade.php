@@ -1,0 +1,1 @@
+<a class="btn btn-secondary rounded-circle" href="{{ url()->previous() }}"><i class="fa-solid fa-arrow-left"></i></a>
